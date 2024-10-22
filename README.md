@@ -14,7 +14,7 @@
 |----------------|-----------------|-----|
 |Проект 1  Исследование нескольких аспектов мобильной игры  (__[github](https://github.com/JuliaBrovko/AB_testing_project)__)|Выбор, расчет продуктовых метрик (Conversion Rate, ARPPU и др.). Проверка гипотез, анализ результатов А/B-теста (тест на независимость Хи-квадрат, T-test).|pandas,numpy,seaborn,  matplotlib,scipy,requests|
 |Проект 2 E-commerce  (__[github](https://github.com/JuliaBrovko/E-commerce_project)__)|Когортный анализ пользователей, RFM-анализ|pandas,seaborn,matplotlib,requests|
-|Проект 3 Исследование датасета с популярными книгами сайта Goodreads  (__[github]([https://github.com/JuliaBrovko/E-commerce_project](https://github.com/JuliaBrovko/EDA-Best-Books-of-the-Decade-2020-s))__)|Exploratory Data Analysis|pandas,seaborn,matplotlib,requests,numpy|
+|Проект 3 Исследование датасета с популярными книгами сайта Goodreads  (__[github](https://github.com/JuliaBrovko/EDA-Best-Books-of-the-Decade-2020-s)__)|Exploratory Data Analysis|pandas,seaborn,matplotlib,requests,numpy|
 
 
 
