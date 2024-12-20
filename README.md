@@ -16,7 +16,7 @@
 |Проект 2 E-commerce  (__[github](https://github.com/JuliaBrovko/E-commerce_project)__)|Когортный анализ пользователей, RFM-анализ|pandas,seaborn,matplotlib,requests|
 |Проект 3 Исследование датасета с популярными книгами сайта Goodreads  (__[github](https://github.com/JuliaBrovko/EDA-Best-Books-of-the-Decade-2020-s)__)|Exploratory Data Analysis|pandas,seaborn,matplotlib,requests,numpy|
 |Проект 4 GameDev  (__[github](https://github.com/JuliaBrovko/GameDev_project/blob/main/GameDev_project.ipynb)__)|Прогноз рекламного заработка|pandas,matplotlib,scipy.optimize,numpy|
-|Проект 5 E-commerce (real_estate) (__[github]([https://github.com/JuliaBrovko/GameDev_project/blob/main/GameDev_project.ipynb](https://github.com/JuliaBrovko/E-commerce_project_real_estate))__)|Расчет ключевых терик, Прогнозирование|pandas,matplotlib,re,ExponentialSmoothing|
+|Проект 5 E-commerce (real_estate) (__[github]([https://github.com/JuliaBrovko/GameDev_project/blob/main/GameDev_project.ipynb](https://github.com/JuliaBrovko/E-commerce_project_real_estate/blob/main/Solution_real_estate.ipynb)__)|Расчет ключевых терик, Прогнозирование|pandas,matplotlib,re,ExponentialSmoothing|
 
 
 
